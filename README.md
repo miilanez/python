@@ -3,7 +3,7 @@ Repositório de estudos da linguagem Python.
 
 <p>Este repositório é onde se encontram os arquivos que utilizo em minhas práticas da linguagem Python.</p>
 
-<p>**Aqui você encontrará:**</p>
+**Aqui você encontrará:**
 
 <ul>
 <li>Conceitos importantes sobre a programação</li>
