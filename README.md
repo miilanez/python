@@ -1,5 +1,5 @@
 # estudospython
-Repositório de estudos da linguagem Python.
+Repositório de estudos da linguagem Python. :snake:
 
 <p>Este repositório é onde se encontram os arquivos que utilizo em minhas práticas da linguagem Python.</p>
 
