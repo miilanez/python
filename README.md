@@ -14,5 +14,5 @@ Repositório de estudos da linguagem Python.
 
 <p>Seja bem vindo ao meu repositório. Traga um cafézinho e vamo simbora!</p>
 
-[![Portão de entrada no Inferno]](https://i.pinimg.com/564x/89/2a/1b/892a1b3cca4b40978ccd77031e921930.jpg)
+(https://i.pinimg.com/564x/89/2a/1b/892a1b3cca4b40978ccd77031e921930.jpg)
 
