@@ -2,5 +2,5 @@ starWarsMovies = ["the phantom menace", "clone wars", "revenge of the sith", "a 
 
 print(starWarsMovies)
 
-print("Mas qual é o meu filme favorito sa lisra?")
+print("Mas qual é o meu filme favorito sa lista?")
 print(starWarsMovies[2])
