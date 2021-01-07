@@ -4,5 +4,5 @@ starWarsMovies = ["the phantom menace", "clone wars", "revenge of the sith", "a 
 for each_flick in starWarsMovies:
     print(each_flick)
 
-print("Mas qual é o meu filme favorito sa lista?")
+print("Mas qual é o meu filme favorito da lista?")
 print(starWarsMovies[2])
